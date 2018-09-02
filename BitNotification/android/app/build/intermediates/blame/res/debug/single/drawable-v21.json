@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Nicolas/BitNotification/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/Nicolas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b22aada79349acda31dcaf979aff22/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/Nicolas/BitNotification/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/Nicolas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b22aada79349acda31dcaf979aff22/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/Nicolas/BitNotification/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/Nicolas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b22aada79349acda31dcaf979aff22/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/Nicolas/BitNotification/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5670929316ce6b33adfeb5d20141fd2/res/drawable-v21/notification_action_background.xml"
+    }
+]

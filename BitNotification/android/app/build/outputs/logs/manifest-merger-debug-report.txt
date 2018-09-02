@@ -1,0 +1,417 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-background-timer] /Users/Nicolas/BitNotification/node_modules/react-native-background-timer/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/Nicolas/BitNotification/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /Users/Nicolas/BitNotification/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-push-notification] /Users/Nicolas/BitNotification/node_modules/react-native-push-notification/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/ee17d8924c749a1868fbdb87e9c82814/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b22aada79349acda31dcaf979aff22/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-15.0.1.aar/0e72d7662874141768bfcd6c89da40ea/AndroidManifest.xml:17:1-28:12
+MERGED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:2:1-41:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.0.aar/a744da5476a0fa7da8658a896584b538/AndroidManifest.xml:17:1-37:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e4041306e511d395de621cb8b5c942f9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/bda1e3893d3f5722c10870d4f4e2070c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/46d83007b19d7033cd626d23f41b3c0a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/4205c5cfe2af4768d5c374e6d3b92730/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8a7a4e0cbdb217d94e83605d3e70f0d3/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/45b0d66f3ed545e9afe70f49e16f0ba3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:16.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/04738c191244a813670a873a1163782c/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0aab1bfc13fea8bddab2fb1881a97714/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/14f1985f7b403f8cf8c141e1c0522669/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/622ddc22c80db3e6916c5bf6f9464e84/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a6d114afab3f53f171fc64baf96ad22d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f48ad6d77946345bd37b2ad6823064f6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a5cc6b9435feae20473bd179b28632ee/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0fc74ff9be11c1dbd019c85cbd923007/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e84184db221bc99ec34e3055871b445f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5670929316ce6b33adfeb5d20141fd2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/752ec07cda4855c7e2259dc82dc10fcc/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/e5fea9a9d548ea8048c706cdc46c7bbc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/7ddccdbbbb8cd143e9d49c66d5ebc4b1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/4ff2b1cbb3672fab3ce17424e3cdbb77/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/558773c3603decb7aee035fbe272fe9c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/2f5a691e280909d57d4f946e6e0f061f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/5cb7c029d1ba44de80592a61b0f07145/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/f7b60b946617351566da1bbe0101c9c8/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/b06a84ed772a7128e8cf9199f372bbe0/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b8b0e3845a45c2608bc79a23f5ecf3b2/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:2:5-34
+		INJECTED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-15.0.1.aar/0e72d7662874141768bfcd6c89da40ea/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-15.0.1.aar/0e72d7662874141768bfcd6c89da40ea/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/46d83007b19d7033cd626d23f41b3c0a/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/46d83007b19d7033cd626d23f41b3c0a/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/ee17d8924c749a1868fbdb87e9c82814/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/ee17d8924c749a1868fbdb87e9c82814/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/ee17d8924c749a1868fbdb87e9c82814/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/ee17d8924c749a1868fbdb87e9c82814/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b22aada79349acda31dcaf979aff22/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b22aada79349acda31dcaf979aff22/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-15.0.1.aar/0e72d7662874141768bfcd6c89da40ea/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-15.0.1.aar/0e72d7662874141768bfcd6c89da40ea/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-messaging:17.3.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.0.aar/a744da5476a0fa7da8658a896584b538/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.0.aar/a744da5476a0fa7da8658a896584b538/AndroidManifest.xml:22:5-35:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e4041306e511d395de621cb8b5c942f9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e4041306e511d395de621cb8b5c942f9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/bda1e3893d3f5722c10870d4f4e2070c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/bda1e3893d3f5722c10870d4f4e2070c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/46d83007b19d7033cd626d23f41b3c0a/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/46d83007b19d7033cd626d23f41b3c0a/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/4205c5cfe2af4768d5c374e6d3b92730/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/4205c5cfe2af4768d5c374e6d3b92730/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8a7a4e0cbdb217d94e83605d3e70f0d3/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8a7a4e0cbdb217d94e83605d3e70f0d3/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/45b0d66f3ed545e9afe70f49e16f0ba3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/45b0d66f3ed545e9afe70f49e16f0ba3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:16.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/04738c191244a813670a873a1163782c/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/04738c191244a813670a873a1163782c/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0aab1bfc13fea8bddab2fb1881a97714/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0aab1bfc13fea8bddab2fb1881a97714/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/14f1985f7b403f8cf8c141e1c0522669/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/14f1985f7b403f8cf8c141e1c0522669/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/622ddc22c80db3e6916c5bf6f9464e84/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/622ddc22c80db3e6916c5bf6f9464e84/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a6d114afab3f53f171fc64baf96ad22d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a6d114afab3f53f171fc64baf96ad22d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f48ad6d77946345bd37b2ad6823064f6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f48ad6d77946345bd37b2ad6823064f6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a5cc6b9435feae20473bd179b28632ee/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a5cc6b9435feae20473bd179b28632ee/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0fc74ff9be11c1dbd019c85cbd923007/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0fc74ff9be11c1dbd019c85cbd923007/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e84184db221bc99ec34e3055871b445f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e84184db221bc99ec34e3055871b445f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5670929316ce6b33adfeb5d20141fd2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5670929316ce6b33adfeb5d20141fd2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/5cb7c029d1ba44de80592a61b0f07145/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/5cb7c029d1ba44de80592a61b0f07145/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/f7b60b946617351566da1bbe0101c9c8/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/f7b60b946617351566da1bbe0101c9c8/AndroidManifest.xml:2:3-17
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b8b0e3845a45c2608bc79a23f5ecf3b2/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b8b0e3845a45c2608bc79a23f5ecf3b2/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.bitnotification.MainActivity
+ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-background-timer] /Users/Nicolas/BitNotification/node_modules/react-native-background-timer/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-timer] /Users/Nicolas/BitNotification/node_modules/react-native-background-timer/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/Nicolas/BitNotification/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/Nicolas/BitNotification/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/Nicolas/BitNotification/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/Nicolas/BitNotification/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-push-notification] /Users/Nicolas/BitNotification/node_modules/react-native-push-notification/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] /Users/Nicolas/BitNotification/node_modules/react-native-push-notification/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/ee17d8924c749a1868fbdb87e9c82814/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/ee17d8924c749a1868fbdb87e9c82814/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b22aada79349acda31dcaf979aff22/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b22aada79349acda31dcaf979aff22/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-15.0.1.aar/0e72d7662874141768bfcd6c89da40ea/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-15.0.1.aar/0e72d7662874141768bfcd6c89da40ea/AndroidManifest.xml:20:5-44
+MERGED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging:17.3.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.0.aar/a744da5476a0fa7da8658a896584b538/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.0.aar/a744da5476a0fa7da8658a896584b538/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e4041306e511d395de621cb8b5c942f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e4041306e511d395de621cb8b5c942f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/bda1e3893d3f5722c10870d4f4e2070c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/bda1e3893d3f5722c10870d4f4e2070c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/46d83007b19d7033cd626d23f41b3c0a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/46d83007b19d7033cd626d23f41b3c0a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/4205c5cfe2af4768d5c374e6d3b92730/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/4205c5cfe2af4768d5c374e6d3b92730/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8a7a4e0cbdb217d94e83605d3e70f0d3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8a7a4e0cbdb217d94e83605d3e70f0d3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/45b0d66f3ed545e9afe70f49e16f0ba3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/45b0d66f3ed545e9afe70f49e16f0ba3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/04738c191244a813670a873a1163782c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/04738c191244a813670a873a1163782c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0aab1bfc13fea8bddab2fb1881a97714/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0aab1bfc13fea8bddab2fb1881a97714/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/14f1985f7b403f8cf8c141e1c0522669/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/14f1985f7b403f8cf8c141e1c0522669/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/622ddc22c80db3e6916c5bf6f9464e84/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/622ddc22c80db3e6916c5bf6f9464e84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a6d114afab3f53f171fc64baf96ad22d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a6d114afab3f53f171fc64baf96ad22d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f48ad6d77946345bd37b2ad6823064f6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f48ad6d77946345bd37b2ad6823064f6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a5cc6b9435feae20473bd179b28632ee/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a5cc6b9435feae20473bd179b28632ee/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0fc74ff9be11c1dbd019c85cbd923007/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0fc74ff9be11c1dbd019c85cbd923007/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e84184db221bc99ec34e3055871b445f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e84184db221bc99ec34e3055871b445f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5670929316ce6b33adfeb5d20141fd2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5670929316ce6b33adfeb5d20141fd2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/752ec07cda4855c7e2259dc82dc10fcc/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/752ec07cda4855c7e2259dc82dc10fcc/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/e5fea9a9d548ea8048c706cdc46c7bbc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/e5fea9a9d548ea8048c706cdc46c7bbc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/7ddccdbbbb8cd143e9d49c66d5ebc4b1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/7ddccdbbbb8cd143e9d49c66d5ebc4b1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/4ff2b1cbb3672fab3ce17424e3cdbb77/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/4ff2b1cbb3672fab3ce17424e3cdbb77/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/558773c3603decb7aee035fbe272fe9c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/558773c3603decb7aee035fbe272fe9c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/2f5a691e280909d57d4f946e6e0f061f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/2f5a691e280909d57d4f946e6e0f061f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/5cb7c029d1ba44de80592a61b0f07145/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/5cb7c029d1ba44de80592a61b0f07145/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/b06a84ed772a7128e8cf9199f372bbe0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/b06a84ed772a7128e8cf9199f372bbe0/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b8b0e3845a45c2608bc79a23f5ecf3b2/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b8b0e3845a45c2608bc79a23f5ecf3b2/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b22aada79349acda31dcaf979aff22/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b22aada79349acda31dcaf979aff22/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e4041306e511d395de621cb8b5c942f9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e4041306e511d395de621cb8b5c942f9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/bda1e3893d3f5722c10870d4f4e2070c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/bda1e3893d3f5722c10870d4f4e2070c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a6d114afab3f53f171fc64baf96ad22d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a6d114afab3f53f171fc64baf96ad22d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f48ad6d77946345bd37b2ad6823064f6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f48ad6d77946345bd37b2ad6823064f6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a5cc6b9435feae20473bd179b28632ee/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a5cc6b9435feae20473bd179b28632ee/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0fc74ff9be11c1dbd019c85cbd923007/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0fc74ff9be11c1dbd019c85cbd923007/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e84184db221bc99ec34e3055871b445f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e84184db221bc99ec34e3055871b445f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5670929316ce6b33adfeb5d20141fd2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5670929316ce6b33adfeb5d20141fd2/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b22aada79349acda31dcaf979aff22/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b22aada79349acda31dcaf979aff22/AndroidManifest.xml:27:13-51
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-15.0.1.aar/0e72d7662874141768bfcd6c89da40ea/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/46d83007b19d7033cd626d23f41b3c0a/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/46d83007b19d7033cd626d23f41b3c0a/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-15.0.1.aar/0e72d7662874141768bfcd6c89da40ea/AndroidManifest.xml:23:22-79
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/6a634f6d77407d542eab49c2f3c05ee9/AndroidManifest.xml:39:22-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.0.aar/a744da5476a0fa7da8658a896584b538/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.0.aar/a744da5476a0fa7da8658a896584b538/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.0.aar/a744da5476a0fa7da8658a896584b538/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.3.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.0.aar/a744da5476a0fa7da8658a896584b538/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:17.3.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.0.aar/a744da5476a0fa7da8658a896584b538/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.3.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.0.aar/a744da5476a0fa7da8658a896584b538/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.0.aar/a744da5476a0fa7da8658a896584b538/AndroidManifest.xml:32:25-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:24:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/781bfd0c64f25036b7264fb2193a9e27/AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8a7a4e0cbdb217d94e83605d3e70f0d3/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8a7a4e0cbdb217d94e83605d3e70f0d3/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8a7a4e0cbdb217d94e83605d3e70f0d3/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8a7a4e0cbdb217d94e83605d3e70f0d3/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/04738c191244a813670a873a1163782c/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/04738c191244a813670a873a1163782c/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/04738c191244a813670a873a1163782c/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/04738c191244a813670a873a1163782c/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/04738c191244a813670a873a1163782c/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/622ddc22c80db3e6916c5bf6f9464e84/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/622ddc22c80db3e6916c5bf6f9464e84/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/622ddc22c80db3e6916c5bf6f9464e84/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/Nicolas/BitNotification/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b8b0e3845a45c2608bc79a23f5ecf3b2/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b8b0e3845a45c2608bc79a23f5ecf3b2/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Nicolas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b8b0e3845a45c2608bc79a23f5ecf3b2/AndroidManifest.xml:26:13-58

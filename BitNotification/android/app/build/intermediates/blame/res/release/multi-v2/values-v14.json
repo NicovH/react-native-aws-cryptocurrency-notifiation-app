@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Nicolas/BitNotification/android/app/build/intermediates/res/merged/release/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/Users/Nicolas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b22aada79349acda31dcaf979aff22/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,331,402,485,895",
+                        "endLines": "6,7,8,14,20",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "326,397,480,890,1312"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/Nicolas/BitNotification/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/Users/Nicolas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b22aada79349acda31dcaf979aff22/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,331,402,485,895",
+                        "endLines": "6,7,8,14,20",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "326,397,480,890,1312"
+                    }
+                }
+            ]
+        }
+    ]
+}
